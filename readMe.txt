@@ -1,1 +1,1 @@
-This project is created for Jsp and servlet Learning stuff.
+This project is created for Jsp and servlet Learning.
